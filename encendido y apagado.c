@@ -1,6 +1,7 @@
 #include <stdio.h>
 void e0();
 void e1();
+//diana
 int main(){
 	int valor;
 	printf("por favor introduce 1 si quieres encender el foco \n");
